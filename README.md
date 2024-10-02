@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adil Isani</h1>
 <h3 align="center">🚀 Web developer | React, Redux, WordPress | 10 years in a wheelchair, still rocking JavaScript. 💻✨</h3>
-<img align="right" style="margin-top: "20px";" width="400" alt="Coding" src="https://raw.githubusercontent.com/adilisani1/my-folio/refs/heads/master/web-developer.jpg">
+<img align="right" style="margin-top: "20px";" width="600" alt="Coding" src="https://raw.githubusercontent.com/adilisani1/my-folio/refs/heads/master/web-developer.jpg">
 
 - 🌱 I’m currently learning **Next-JS TypeScript**
 
