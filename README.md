@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adil Isani</h1>
 <h3 align="center">🚀 Web developer | React, Redux, WordPress | 10 years in a wheelchair, still rocking JavaScript. 💻✨</h3>
-<img align="right" style="margin-top: "20px";" width="500" alt="Coding" src="https://raw.githubusercontent.com/adilisani1/my-folio/refs/heads/master/web-developer.jpg">
-
+<img 
+  align="right" 
+  style="margin-top: 20px; border-radius: 50px; width: 500px;" 
+  alt="Coding" 
+  src="https://raw.githubusercontent.com/adilisani1/my-folio/refs/heads/master/web-developer.jpg">
 - 🌱 Currently learning **TypeScript**
 
 - 💬 Ask me about **React JS, JavaScript**
