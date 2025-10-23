@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilisani1&label=Profile%20views&color=0e75b6&style=flat" alt="adilisani1" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Digital Marketing**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-six-24.vercel.app/](https://portfolio-mu-six-24.vercel.app/)
 
