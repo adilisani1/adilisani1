@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilisani1&label=Profile%20views&color=0e75b6&style=flat" alt="adilisani1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilisani1" alt="adilisani1" /></a> </p>
+
 - 🌱 I’m currently learning **TypeScript, Digital Marketing**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-six-24.vercel.app/](https://portfolio-mu-six-24.vercel.app/)
