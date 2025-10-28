@@ -41,7 +41,7 @@
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/react-native-img.png" width="40" height="40" alt="React Native"/>
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/b6170009f019896299c874fd01170e5d1b9f2097/rn.svg" width="40" height="40" alt="React Native"/>
 </p>
 
 #### 🎨 UI/UX & Design Tools
