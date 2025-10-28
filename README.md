@@ -47,10 +47,10 @@
 #### 🎨 UI/UX & Design Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/xd.png" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.svg" width="40" height="40" alt="Canva"/>
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/canvaaaa.png" width="40" height="40" alt="Canva"/>
 </p>
 
 ---
