@@ -41,13 +41,13 @@
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/b6170009f019896299c874fd01170e5d1b9f2097/rn.svg" width="60" height="60" alt="React Native"/>
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/b6170009f019896299c874fd01170e5d1b9f2097/rn.svg" width="65" height="65" alt="React Native"/>
 </p>
 
 #### 🎨 UI/UX & Design Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/xd.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/xd.png" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/canvaaaa.png" width="40" height="40" alt="Canva"/>
