@@ -61,7 +61,7 @@
   <a href="https://stackoverflow.com/users/9246665/muhammad-adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://fb.com/aadil.saleem2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   <a href="https://www.behance.net/adiisani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-    <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="blank"><img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/upwork.png" height="30" width="40" /></a>
+    <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="blank"><img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/upwork.png" height="40" width="40" /></a>
 
 </p>
 
