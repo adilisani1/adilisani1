@@ -1,76 +1,121 @@
-<h1 align="center">Hi 👋, I'm Adil Isani</h1>
-<h3 align="center">Web & Mobile Developer (React, Next.js, React Native, WordPress)</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adilisani1&label=Profile%20views&color=0e75b6&style=flat" alt="adilisani1" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adil%20Isani&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=22&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=React+%7C+Next.js+%7C+React+Native;Building+beautiful+digital+experiences;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adilisani1&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/aadil-isani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adil.isani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-mu-six-24.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-- 🌱 I’m currently learning **TypeScript**
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-mu-six-24.vercel.app/)
-- 💬 Ask me about **ReactJS, JavaScript**
-- 📫 How to reach me **adil.isani1@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/view?usp=sharing)
-- ⚡ Fun fact: **Loyal, Reliable, Quietly Ambitious and Funny in a Dry Way**
+</div>
 
 ---
 
-### 🧠 Tech Stack
+## 👨‍💻 About Me
 
-#### 🎨 Frontend
-<span align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</span>
+```javascript
+const adil = {
+  pronouns:     "He / Him",
+  location:     "🌍 Karachi, Pakistan",
+  currentFocus: "📘 Mastering TypeScript",
+  role:         "Web & Mobile Developer",
+  portfolio:    "https://portfolio-mu-six-24.vercel.app/",
+  resume:       "https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/",
+  personality:  ["Loyal", "Reliable", "Quietly Ambitious", "Funny in a Dry Way 😄"],
+  ask_me_about: ["ReactJS", "JavaScript", "React Native", "UI/UX"],
+};
+```
 
-#### ⚙️ Backend
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&perline=9" />
 </p>
 
-#### 📱 Mobile Development
+### ⚙️ Backend & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase,docker&perline=9" />
+</p>
+
+### 📱 Mobile
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/b6170009f019896299c874fd01170e5d1b9f2097/rn.svg" width="65" height="65" alt="React Native"/>
 </p>
 
-#### 🎨 UI/UX & Design Tools
+### 🎨 Design Tools
+
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/xd.png" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/canvaaaa.png" width="40" height="40" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,xd&perline=9" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/aadil-isani/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/9246665/muhammad-adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/aadil.saleem2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://www.behance.net/adiisani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-    <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="blank"><img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/upwork.png" height="40" width="40" /></a>
+## 📊 GitHub Analytics
 
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilisani1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilisani1&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilisani1&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilisani1&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilisani1&show_icons=true&locale=en&layout=compact" alt="adilisani1" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilisani1" alt="adilisani1" />
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aadil-isani/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+</a>
+<a href="https://stackoverflow.com/users/9246665/muhammad-adil">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="50" />
+</a>
+<a href="https://fb.com/aadil.saleem2">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" />
+</a>
+<a href="https://www.behance.net/adiisani">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="50" />
+</a>
+<a href="https://www.upwork.com/freelancers/~your-upwork-id">
+  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/upwork.png" height="40" width="50" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+</div>
