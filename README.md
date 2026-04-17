@@ -101,6 +101,6 @@
 <div align="center">
 
 ---
-*Thanks for visiting! Feel free to ⭐ any repos you find interesting.*
+*Thanks for visiting! ⭐*
 
 </div>
