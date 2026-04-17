@@ -34,7 +34,7 @@
 - 💼 **Web & Mobile Developer** — React, Next.js, React Native & WordPress
 - 📘 Currently leveling up with **TypeScript**
 - 🧠 Ask me about **ReactJS, JavaScript, React Native & UI/UX**
-- 🌐 Check out my **[Portfolio](https://portfolio-mu-six-24.vercel.app/)** & **[Resume](https://drive.google.com/file/d/12forI4b_e6fZbUEeUVsgaQop-45XxnKr/view?usp=sharing)**
+- 🌐 Check out my **[Portfolio](https://portfolio-mu-six-24.vercel.app/)** & **[Resume](https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/view?usp=sharing)**
 - ⚡ Fun fact: Loyal, Reliable, Quietly Ambitious — and funny in a dry way 😄
 
 ---
@@ -88,25 +88,13 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aadil-isani/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
-<a href="https://stackoverflow.com/users/9246665/muhammad-adil">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="50" />
-</a>
-<a href="https://fb.com/aadil.saleem2">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" />
-</a>
-<a href="https://www.behance.net/adiisani">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="50" />
-</a>
-<a href="https://www.upwork.com/freelancers/~your-upwork-id">
-  <img src="https://raw.githubusercontent.com/adilisani1/adilisani1/refs/heads/main/upwork.png" height="40" width="50" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadil-isani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/9246665/muhammad-adil" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;
+  <a href="https://fb.com/aadil.saleem2" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="https://www.behance.net/adiisani" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+</p>
 
 ---
 
