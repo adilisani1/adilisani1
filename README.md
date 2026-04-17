@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adil%20Isani&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=22&animation=fadeIn" />
+# Hi there, I'm **Adil Isani** 👋
+### Web & Mobile Developer · React · Next.js · React Native
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 - 💼 **Web & Mobile Developer** — React, Next.js, React Native & WordPress
 - 📘 Currently leveling up with **TypeScript**
 - 🧠 Ask me about **ReactJS, JavaScript, React Native & UI/UX**
-- 🌐 Check out my **[Portfolio](https://portfolio-mu-six-24.vercel.app/)** & **[Resume](https://drive.google.com/file/d/12forI4b_e6fZbUEeUVsgaQop-45XxnKr/view?usp=sharing)**
+- 🌐 Check out my **[Portfolio](https://portfolio-mu-six-24.vercel.app/)** & **[Resume](https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/view?usp=sharing)**
 - ⚡ Fun fact: Loyal, Reliable, Quietly Ambitious — and funny in a dry way 😄
 
 ---
@@ -99,5 +99,8 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+---
+*Thanks for visiting! Feel free to ⭐ any repos you find interesting.*
+
 </div>
