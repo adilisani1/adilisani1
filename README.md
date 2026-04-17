@@ -30,18 +30,12 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const adil = {
-  pronouns:     "He / Him",
-  location:     "🌍 Karachi, Pakistan",
-  currentFocus: "📘 Mastering TypeScript",
-  role:         "Web & Mobile Developer",
-  portfolio:    "https://portfolio-mu-six-24.vercel.app/",
-  resume:       "https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/",
-  personality:  ["Loyal", "Reliable", "Quietly Ambitious", "Funny in a Dry Way 😄"],
-  ask_me_about: ["ReactJS", "JavaScript", "React Native", "UI/UX"],
-};
-```
+- 🌍 Based in **Karachi, Pakistan**
+- 💼 **Web & Mobile Developer** — React, Next.js, React Native & WordPress
+- 📘 Currently leveling up with **TypeScript**
+- 🧠 Ask me about **ReactJS, JavaScript, React Native & UI/UX**
+- 🌐 Check out my **[Portfolio](https://portfolio-mu-six-24.vercel.app/)** & **[Resume](https://drive.google.com/file/d/15cx3HJ59tiEFMeC3mvNZvWwXeTlrZtQQ/view?usp=sharing)**
+- ⚡ Fun fact: Loyal, Reliable, Quietly Ambitious — and funny in a dry way 😄
 
 ---
 
