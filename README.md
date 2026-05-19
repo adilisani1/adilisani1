@@ -19,7 +19,7 @@
   <a href="mailto:adil.isani1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-mu-six-24.vercel.app/">
+  <a href="https://adilportfolio-xi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
